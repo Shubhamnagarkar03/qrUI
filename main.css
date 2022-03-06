@@ -1,0 +1,23 @@
+body{
+  background: rgb(226,222,169);
+  background: linear-gradient(0deg, rgba(226,222,169,1) 0%, rgba(209,140,224,1) 100%);
+  background-repeat: no-repeat;
+}
+.card, .card-img-top {
+margin-top: 5%;
+border-radius: 30px;
+text-align: center;
+background-color: #EEEEEE;
+}
+#maincard img{
+  width: 100%;
+}
+.card{
+  box-shadow: 0px 0px 20px grey;
+}
+.card-img-top{
+  border: 2px solid #ECA6A6;
+}
+.qr{
+  padding: 15% 15% 15% 15%;
+}
